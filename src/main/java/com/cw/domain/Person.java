@@ -1,4 +1,4 @@
-package com.ce.domain;
+package com.cw.domain;
 
 public class Person {
     private String id;
